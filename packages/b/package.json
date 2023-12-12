@@ -1,0 +1,10 @@
+{
+  "name": "@packages/b",
+  "devDependencies": {
+    "bun-types": "latest",
+    "esbuild": "^0.19.7"
+  },
+  "peerDependencies": {
+    "typescript": "5.3.2"
+  }
+}

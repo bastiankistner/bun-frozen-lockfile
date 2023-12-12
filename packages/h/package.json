@@ -1,0 +1,10 @@
+{
+  "name": "@packages/h",
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "type-fest": "^4.8.2",
+    "@packages/c": "workspace:*",
+    "@packages/g": "workspace:*",
+    "@packages/a": "workspace:*"
+  }
+}

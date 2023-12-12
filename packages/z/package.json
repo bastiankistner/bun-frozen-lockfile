@@ -1,0 +1,16 @@
+{
+  "name": "@packages/z",
+  "module": "index.ts",
+  "devDependencies": {
+    "@apollo/client": "^3.8.7",
+    "@packages/e": "workspace:*",
+    "@types/uuid": "^9.0.7",
+    "bun-types": "latest",
+    "graphql": "^16.8.1"
+  },
+  "dependencies": {
+    "@apollo/link-context": "2.0.0-beta.3",
+    "subscriptions-transport-ws": "^0.11.0",
+    "uuid": "^9.0.1"
+  }
+}

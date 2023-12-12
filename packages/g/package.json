@@ -1,0 +1,7 @@
+{
+  "name": "@packages/g",
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "type-fest": "^4.8.2"
+  }
+}
